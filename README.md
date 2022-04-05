@@ -2,9 +2,7 @@
 
 ## CEFIRE Curs 2022
 
-Curs d'aprenentatge d'idiomes mitjançant software lliure
-
-[més informació](http://cefire.edu.gva.es/sfp/index.php?seccion=edicion&id=10054289)
+Curs d'aprenentatge d'idiomes mitjançant software lliure. [+ info](http://cefire.edu.gva.es/sfp/index.php?seccion=edicion&id=10054289)
 
 LLICÈNCIA
 
