@@ -1,0 +1,28 @@
+site_name: Aprenentatge de llengües mitjançant progamari lliure
+site_url: https://cursos-cefire.github.io/aprenentatge-idiomes-software-lliure/
+docs_dir: 'content'
+site_dir: 'docs'
+nav:
+    - Inici: presentació/index.md
+    - Unitat 0:
+      - Edició del perfil i presentació al fòrum: unitat 0/index.md
+    #     - CD/CI: Unitats/Unitat 1/CD-CI.md
+    #   - Unitat 3 - Detecció i correcció de vulnerabilitats en aplicacions web:
+    #     - API Rest: Unitats/Unitat 3/APIRest.md
+    # - About: about.md
+theme:
+  name: material
+  language: ca
+plugins:
+    - mkdocs-video
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

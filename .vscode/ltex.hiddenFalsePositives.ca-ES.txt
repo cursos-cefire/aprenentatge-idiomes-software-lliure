@@ -1,0 +1,11 @@
+{"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QUs done la benvinguda al curs d'Aprenentatge d'idiomes mitjançant software lliure.\\E$"}
+{"rule":"CATALAN_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QEdició de vídeo.\\E$"}
+{"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QSi considereu que seria interessant que s'explicara alguna ferramenta en concret es podeu posar en contacte amb mi a través de la plataforma aules i ho valorem.\\E$"}
+{"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QSi considereu que seria interessant que s'explicara alguna ferramenta en concret us podeu posar en contacte amb mi a través de la plataforma aules i ho valorem.\\E$"}
+{"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QNo és un contingut tancat, així que pot sofrir algunes modificacions segons avance el curs.\\E$"}
+{"rule":"EXIGEIX_POSSESSIUS_V","sentence":"^\\QPosteriorment haureu de posar en pràctica els coneixements que adquirireu amb la seua visualització per produir una sèrie de recursos que haureu de lliurar a través de les la plataforma Aules.\\E$"}
+{"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QQuan els recursos estiguen disponibles us posaré un avís al fòrum d'avisos de la plataforma Aules.\\E$"}
+{"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QQuan estiguen disponibles us posaré un avís al fòrum de la plataforma Aules.\\E$"}
+{"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QQuan estiguen disponibles us posaré un avís al fòrum Avisos de la plataforma Aules.\\E$"}
+{"rule":"EXIGEIX_POSSESSIUS_V","sentence":"^\\QPosteriorment haureu de posar en pràctica els coneixements que adquirireu amb la seua visualització per produir una sèrie de recursos que haureu de lliurar a través de les tasques a la plataforma Aules.\\E$"}
+{"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QAquesta última unitat servirà per recopilar i compartir, sempre sota el consentiment dels autors, alguns treballs que puguen resultar interessants a la resta de participants del curs.\\E$"}
