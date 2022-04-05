@@ -3,7 +3,7 @@ site_url: https://cursos-cefire.github.io/aprenentatge-idiomes-software-lliure/
 docs_dir: 'content'
 site_dir: 'docs'
 nav:
-    - Inici: presentació/index.md
+    - Inici: index.md
     - Unitat 0:
       - Edició del perfil i presentació al fòrum: unitat 0/index.md
     #     - CD/CI: Unitats/Unitat 1/CD-CI.md
