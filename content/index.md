@@ -10,7 +10,7 @@ Us done la benvinguda al curs d'Aprenentatge d'idiomes mitjançant software lliu
 
 ## Contingut
 
-- **^^Unitat 0:^^ Edició del perfil i presentació**
+- **^^Unitat 0:^^ Revisió del perfil i presentació dels participants**
 
     Aquesta primera unitat no té contingut, simplement és una unitat inicial on les tasques a realitzar seran entrar a Aules a editar el teu perfil i presentar-te al fòrum de presentacions.
   
@@ -55,7 +55,7 @@ Tingueu en compte que tenim les vacances de Pasqua entre aquestes dates, i duran
 Per tant, les dates quedaren com s'indica a continuació:
 
 - **Unitat 0**: 6 - 8 d'abril.
-- **Unitat 1:** 6 - 18 d'abril.
+- **Unitat 1:** 9 - 18 d'abril.
 - **Unitat 2:** 19 d'abril - 27 d'abril.
 - **Unitat 3:** 28 d'abril - 4 de maig.
 - **Unitat 4:** 5 - 15 de maig.

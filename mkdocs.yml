@@ -5,7 +5,7 @@ site_dir: 'docs'
 nav:
     - Inici: index.md
     - Unitat 0:
-      - Edició del perfil i presentació al fòrum: unitat 0/index.md
+      - Revisió del perfil i presentació dels participants: unitat 0/index.md
     #     - CD/CI: Unitats/Unitat 1/CD-CI.md
     #   - Unitat 3 - Detecció i correcció de vulnerabilitats en aplicacions web:
     #     - API Rest: Unitats/Unitat 3/APIRest.md
