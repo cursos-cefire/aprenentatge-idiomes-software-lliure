@@ -6,6 +6,10 @@ nav:
     - Inici: index.md
     - Unitat 0:
       - Revisió del perfil i presentació dels participants: unitat 0/index.md
+      - Tasques de la unitat 0: unitat 0/tasques.md
+    - Unitat 1:
+      - Programari lliure: unitat 1/programari lliure.md
+      - Creació de recursos H5P: unitat 1/h5p.md
     #     - CD/CI: Unitats/Unitat 1/CD-CI.md
     #   - Unitat 3 - Detecció i correcció de vulnerabilitats en aplicacions web:
     #     - API Rest: Unitats/Unitat 3/APIRest.md

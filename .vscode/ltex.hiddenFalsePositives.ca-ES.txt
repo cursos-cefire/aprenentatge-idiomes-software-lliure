@@ -9,3 +9,4 @@
 {"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QQuan estiguen disponibles us posaré un avís al fòrum Avisos de la plataforma Aules.\\E$"}
 {"rule":"EXIGEIX_POSSESSIUS_V","sentence":"^\\QPosteriorment haureu de posar en pràctica els coneixements que adquirireu amb la seua visualització per produir una sèrie de recursos que haureu de lliurar a través de les tasques a la plataforma Aules.\\E$"}
 {"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QAquesta última unitat servirà per recopilar i compartir, sempre sota el consentiment dels autors, alguns treballs que puguen resultar interessants a la resta de participants del curs.\\E$"}
+{"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QAquests recursos estan pensats perquè es puguen crear, compartir, reutilitzar i modificar molt fàcilment.\\E$"}
