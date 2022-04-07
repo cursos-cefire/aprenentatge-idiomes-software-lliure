@@ -1,4 +1,5 @@
-## Programari lliure
+
+![GNU GPL](resources/gnu_gpl.png)
 
 Abans de començar a produir recursos H5P, parlarem un poc sobre el software lliure i per què es considera adequat el seu ús en general i en l'educació en particular.
 
