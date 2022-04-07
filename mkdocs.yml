@@ -18,6 +18,8 @@ nav:
 theme:
   name: material
   language: ca
+  favicon: img/faviconV2.png
+  logo: img/favicon.png
 plugins:
     - mkdocs-video
 markdown_extensions:
