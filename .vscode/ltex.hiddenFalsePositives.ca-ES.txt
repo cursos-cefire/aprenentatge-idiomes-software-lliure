@@ -11,3 +11,4 @@
 {"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QAquesta última unitat servirà per recopilar i compartir, sempre sota el consentiment dels autors, alguns treballs que puguen resultar interessants a la resta de participants del curs.\\E$"}
 {"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QAquests recursos estan pensats perquè es puguen crear, compartir, reutilitzar i modificar molt fàcilment.\\E$"}
 {"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QNo comences pels més difícils, comença per un més simple i quan et sentes còmode, intenta algun altre més complicat.\\E$"}
+{"rule":"EXIGEIX_VERBS_CENTRAL","sentence":"^\\QUn dels recursos que hages creat en l'apartat anterior, i una captura de pantalla on s'observe que està penjat a un dels teus cursos d'Aules docent.\\E$"}
