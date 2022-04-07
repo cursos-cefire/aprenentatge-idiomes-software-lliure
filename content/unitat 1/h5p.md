@@ -56,7 +56,7 @@ Tenim dues opcions per a crear recursos H5P:
 - A través de [Lumi](https://lumi.education/es/#download)
 - A través del plugin d'Aules
 
-### Creació d'un recurs H5P utilitzant de Lumi
+### Creació d'un recurs H5P utilitzant Lumi
 
 En el següent video crearem un recurs d'arrastrar i soltar amb Lumi.
 
