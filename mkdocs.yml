@@ -11,10 +11,11 @@ nav:
       - Programari lliure: unitat 1/programari lliure.md
       - Creació de recursos H5P: unitat 1/h5p.md
       - Tasques de la unitat 1 - Creació de recursos H5P: unitat 1/tasques.md
-    #     - CD/CI: Unitats/Unitat 1/CD-CI.md
-    #   - Unitat 3 - Detecció i correcció de vulnerabilitats en aplicacions web:
-    #     - API Rest: Unitats/Unitat 3/APIRest.md
-    # - About: about.md
+    - Unitat 2 - Edició d'imatges: 
+      - Introducció: unitat 2/introduccio.md
+      - Inkscape - introducció: unitat 2/Introducció a inkscape.md
+      - Inkscape - creació i modificació de recursos: unitat 2/Inkscape - creació de recursos amb inkscape.md
+      - Tasques de la unitat 2: unitat 2/tasques.md
 theme:
   name: material
   language: ca
