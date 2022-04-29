@@ -16,6 +16,10 @@ nav:
       - Inkscape - introducció: unitat 2/Introducció a inkscape.md
       - Inkscape - creació i modificació de recursos: unitat 2/Inkscape - creació de recursos amb inkscape.md
       - Tasques de la unitat 2: unitat 2/tasques.md
+    - Unitat 3 - Edició d'àudio:
+      - Introducció: unitat 3/introduccio.md
+      - Edició amb audacity: unitat 3/audacity.md
+      - Tasques: unitat 3/tasques.md
 theme:
   name: material
   language: ca
