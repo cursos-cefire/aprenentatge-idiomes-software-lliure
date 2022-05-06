@@ -8,11 +8,11 @@ Abans de començar a fer-les, recomanem llegir els recursos i visualitzar els v�
 
 # Tasca número 1
 
-Crea un recurs de vídeo de tipus videotutorial amb OBS per als teus alumnes, explica'ls qualsevol dels conceptes que et siga útil en l'idioma que impartixes habitualment. Per fer-ho configura diferents escenes en OBS.
+Creeu un recurs de vídeo de tipus videotutorial amb OBS per al vostre alumnat, explica'ls qualsevol concepte que els puga ser útil en l'idioma que impartiu habitualment. Per fer-ho configureu diferents escenes en OBS.
 
 # Tasca número 2
 
-Crea un altre recurs de vídeo de tipus curtmetratge. La idea és contar una xicoteta història d'un parell de minuts que incorpore diverses escenes editades amb kdenlive. Com sempre, fes-ho amb l'idioma que estàs impartint.
+Creeu un altre recurs de vídeo de tipus curtmetratge. La idea és contar una xicoteta història d'un parell de minuts que incorpore diverses escenes editades amb kdenlive. Si no voleu eixir als vídeos, podeu inserir imatges estàtiques i incorporar àudio. Com sempre, feu-ho amb l'idioma que esteu impartint.
 
 # Tasca número 3
 
