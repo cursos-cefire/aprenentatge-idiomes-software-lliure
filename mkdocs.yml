@@ -20,6 +20,11 @@ nav:
       - Introducció: unitat 3/introduccio.md
       - Edició amb audacity: unitat 3/audacity.md
       - Tasques: unitat 3/tasques.md
+    - Unitat 4 - Edició de vídeo:
+      - Introducció: unitat 4/introduccio.md
+      - Captura de vídeo amb OBS: unitat 4/OBS.md
+      - Edició de vídeo amb kdenlive: unitat 4/kdenlive.md
+      - Tasques: unitat 4/tasques.md
 theme:
   name: material
   language: ca

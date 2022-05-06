@@ -21,6 +21,7 @@ Crea un recurs H5P amb l'àudio de l'apartat anterior. Per ajudar-te, pots visua
 # Entregar
 
 El que has d'entregar és:
+
 - Projecte d'Audacity (arxiu .aup o aup3).
 - Exportació del projecte en mp3 o wav.
 - Recurs H5P.
